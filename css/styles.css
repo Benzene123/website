@@ -81,12 +81,13 @@ h3 {
 .contact-me {
     width: 75%;
    margin: auto;
-   padding-bottom: 50px;
+   padding-bottom: 70px;
+
 }
 
 .bottom-container {
     background-color:  #C0C0C0;
-    width: 63.9%;
+    width: 100%;
     margin: auto;
 }
 .an-expert {
@@ -95,9 +96,13 @@ h3 {
 .footer-link {
     margin: 10px 20px;
     font-size: 20px;
+    padding: 10px 0px 20px 0px;
 }
 p {
     font-size: 20px;   
+}
+.p-tag {
+    margin-bottom: 0px;
 }
 .btn {
     background: #3498db;
